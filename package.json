@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "@nomiclabs/hardhat-truffle5": "^2.0.2",
+    "@nomiclabs/hardhat-web3": "^2.0.0",
+    "chai-bignumber": "^3.0.0",
+    "hardhat": "^2.6.8",
+    "web3": "^1.6.1"
+  },
+  "dependencies": {
+    "bignumber.js": "^9.0.1",
+    "chai": "^4.3.4"
+  }
+}
